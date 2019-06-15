@@ -1,9 +1,10 @@
 .centered_div {
-   width: 500px;
+  width: 500px;
 
   position: fixed;
   top: 50%;
   left: 50%;
+  right: 50%;
   transform: translate(-50%, -50%);
 }
 
